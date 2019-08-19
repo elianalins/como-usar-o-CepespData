@@ -1,9 +1,4 @@
----
-title: "Primeiros Passos"
-author: "Equipe CEPESP"
-date: '2018-08-10'
-type: index
----
+## "Primeiros Passos"
 
 ## 1. O que é o R?
 

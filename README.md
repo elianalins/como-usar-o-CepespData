@@ -4,12 +4,12 @@ O CepespData é um repositório de dados eleitorais do Centro de Política e Eco
 
 Este tutorial explica passo a passo **como usar o CepespData**.
 
-Há várias formas de acessar os dados do CepespData: manualmente, por meio do próprio [site](cepespdata.io), ou por meio das APIs, que permitem realização requisições de forma mais automatizada (API R, API Python, API REST).
+Há várias formas de acessar os dados do CepespData: manualmente, por meio do próprio [site](www.cepespdata.io), ou por meio das APIs, que permitem realização requisições de forma mais automatizada (API R, API Python, API REST).
 
 Aqui vamos mostrar passo a passo como acessar esses dados de todas essas formas. Este tutorial se divide nas seguintes seções:
 
-1. **Como usar o site** [cepespdata.io](cepespdata.io) para fazer baixar os dados de forma mais eficiente para as análises desejadas
-2. [**Como usar o R**](https://github.com/elianalins/como_usar_o_CepespData/blob/master/como_usar_o_R.md), software livre, isto é, gratuito, muito usado para baixar e manipular dados.
+1. **Como usar o site** [cepespdata.io](www.cepespdata.io) para fazer baixar os dados de forma mais eficiente para as análises desejadas
+2. [Como usar o R](https://github.com/elianalins/como_usar_o_CepespData/blob/master/como_usar_o_R.md), software livre, isto é, gratuito, muito usado para baixar e manipular dados.
 3. **Como usar a API R** do CepespData para baixar, manipular e visualizar dados eleitorais.
 4. **Como usar a API REST** do CepespData para baixar dados eleitorais.
 5. **Como usar a API Python** do CepespData para baixar dados eleitorais.

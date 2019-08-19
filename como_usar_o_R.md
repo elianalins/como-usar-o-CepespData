@@ -1,4 +1,4 @@
-## "Primeiros Passos"
+# Como usar o R -- Primeiros Passos
 
 ## 1. O que é o R?
 
